@@ -1,0 +1,12 @@
+section {
+  padding: 50px;
+  height: 100vh;
+}
+
+.base-section {
+  background-color: lavender;
+}
+
+.cart-section {
+  background-color: seashell;
+}
